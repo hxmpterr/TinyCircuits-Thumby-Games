@@ -1,0 +1,1 @@
+This is a pretty basic flight sim there is currently no landing or taking off. Use the arrow keys to fly around in an infinite space dont fly too low or youll crash!
