@@ -1,0 +1,19 @@
+MidiPlayer is a midi music player optimized for the Thumby.
+
+*CREDITS TO transistortester FOR polysynth.py AND midi.py PLUS ALL THOSE THEY CREDITED.*
+
+Controls and use instructions
+
+Up - select
+Down - select
+Left - pitch down (in song)
+Right - pitch up (in song)
+A - ok
+B - exit
+
+*ONLY USE INSTRUMENTAL VERSIONS OF SONGS*
+This player will only work with .mid or .midi files. To insert songs, put files in /Games/MidiPlayer/songs/ (Song name). Some songs may have mild “clicking” notes. You must also make the song name 10 characters or less to avoid name cut off. You can change the pitch of the song using left/right, even though it can go really high, most of the time you only need 1-2 pitch.
+
+Author: Eri
+Discord: @pikachu1260
+Thanks to transistortester for polysynth.

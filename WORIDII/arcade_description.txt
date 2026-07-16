@@ -1,0 +1,18 @@
+WORIDII minigames
+
+by Team Quadrimus
+
+
+PAIRS
+Players: 1-2
+Find two identical pictures!
+
+BUG RUN!
+Players: 1
+Avoid the boxes and catch the bug!
+
+
+Version: 1.0.0
+
+https://woridii.com
+https://quadrimus.com
